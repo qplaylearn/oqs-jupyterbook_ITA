@@ -1,36 +1,36 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
-# Open quantum systems with qiskit
+# Sistemi quantistici aperti con qiskit
 
-This set of notebooks contains the material for a comprehensive 54-hour course on open quantum systems (OQS), starting from basic concepts and covering the most essential concepts in the literature of OQS. Moreover, we present a novel idea: to teach how to simulate many paradigmatic examples of OQS dynamics with Qiskit and the IBM Q processors. This idea finds its origin in a recent publication ([García-Pérez, Rossi, Maniscalco, NPJ Quantum Inform. 6, 1 (2020)](https://www.nature.com/articles/s41534-019-0235-y)), in which we demonstrate that the IBM Q Experience is a versatile and robust platform for simulating open quantum systems.
+Questa serie di notebook contiene il materiale didattico per un corso completo di 54 ore sui sistemi quantistici aperti (OQS), che parte dai concetti di base e copre gli aspetti fondamentali della letteratura sull'argomento. Inoltre, presentiamo un'idea innovativa: insegnare come simulare molti esempi paradigmatici delle dinamiche degli OQS utilizzando Qiskit e i processori IBM Q. Questa idea trova la sua origine in una recente pubblicazione ([García-Pérez, Rossi, Maniscalco, NPJ Quantum Inform. 6, 1 (2020)](https://www.nature.com/articles/s41534-019-0235-y)), in cui dimostriamo che IBM Q Experience è una piattaforma versatile e robusta per la simulazione di sistemi quantistici aperti.
 
-The course is aimed at master students with a background in Quantum Mechanincs and Quantum Information theory who are also familiar with Qiskit. It is divided into lectures and projects. Throught the lecture notes, the lecturer will find several examples of important concepts for OQS in terms of circuits, with which we assume the student to be acquainted. The lecture material also includes many circuits that enable the simulation of OQS dynamics on the real IBM Q devices, with comprehensive explanations on their working principles. Finally, the lectures are to be supplemented with guided practical "hands-on" sessions in which the students must implement the corresponding circuits and analyze the results.
+Il corso è rivolto a studenti di master con una preparazione in meccanica quantistica e teoria dell'informazione quantistica, che abbiano inoltre familiarità con Qiskit. È suddiviso in lezioni frontali e progetti. Attraverso gli appunti delle lezioni, il docente fornirà diversi esempi di concetti fondamentali per l'OQS in termini di circuiti, che si presume lo studente conosca già. Il materiale didattico include anche molti circuiti che consentono la simulazione delle dinamiche OQS sui dispositivi IBM Q reali, con spiegazioni esaurienti sui loro principi di funzionamento. Infine, le lezioni saranno integrate da sessioni pratiche guidate in cui gli studenti dovranno implementare i circuiti corrispondenti e analizzare i risultati.
 
-[Link to the website](https://qplaylearn.github.io/oqs-jupyterbook)
+[Link al sito](https://qplaylearn.github.io/oqs-jupyterbook)
 
-## Installation
-In order to use the notebooks in the course and reproduce the results, clone the repository on your device and create a Python 3.11.10 environment with the method of choice (virtualenv, conda or poetry). For example, with poetry
+## Installazione
+Per poter utilizzare i notebook del corso e riprodurne i risultati, clona il repository sul tuo dispositivo e crea un ambiente Python 3.11.10 utilizzando il metodo che preferisci (virtualenv, conda o poetry). Ad esempio, con poetry
 
 ```shell
 poetry install
 ```
 
-With pip,
+Con pip,
 
 ```shell
 pip install -r requirements.txt
 ```
 
-## Usage
+## Utilizzo
 
-The notebooks are located in the `content` folder inside the repository.
+I notebook  sono collocati nella cartella `content` dentro la repository.
 
 ----
 
-Authors: Daria Anttila, Guillermo García-Pérez, Matteo Rossi, Boris Sokolov
+Autori: Daria Anttila, Guillermo García-Pérez, Matteo Rossi, Boris Sokolov
 
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
+Questo lavoro è concessa in licenza ai sensi di [Creative Commons Attribution-ShareAlike 4.0
 International License][cc-by-sa].
 
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
