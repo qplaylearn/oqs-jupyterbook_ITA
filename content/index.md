@@ -1,21 +1,20 @@
 <img src="images/oqs_title_.jpg"/>
 
-This set of projects is based on the course **Open Quantum Systems (OQS) with Qiskit**, which covers the most basic and essential concepts in the literature of OQS. The original course provided a novel way OQS: by giving students the opportunity to learn how to simulate many paradigmatic examples of OQS dynamics with [Qiskit](https://qiskit.org) and the [IBM Quantum Platform](https://quantum-computing.ibm.com). This idea finds its origin in the publication ([García-Pérez, Rossi, Maniscalco, NPJ Quantum Inform. 6, 1 (2020)](https://www.nature.com/articles/s41534-019-0235-y)), in which the authors demonstrate that the IBM Quantum Platform is a versatile and robust platform for simulating open quantum systems.
+Questa serie di progetti si basa sul corso **Open Quantum Systems (OQS) con Qiskit**, che tratta i concetti più basilari ed essenziali presenti nella letteratura sugli OQS. Il corso originale ha offerto un approccio innovativo agli OQS: dando agli studenti l'opportunità di imparare a simulare molti esempi paradigmatici delle dinamiche degli OQS con [Qiskit](https://qiskit.org) e la [IBM Quantum Platform](https://quantum-computing.ibm.com). Questa idea trova la sua origine nella pubblicazione ([García-Pérez, Rossi, Maniscalco, NPJ Quantum Inform. 6, 1 (2020)](https://www.nature.com/articles/s41534-019-0235-y)), in cui gli autori dimostrano che la IBM Quantum Platform è una piattaforma versatile e robusta per la simulazione di sistemi quantistici aperti.
+
+I progetti sono rivolti a studenti magistrali con una formazione in Meccanica Quantistica e Teoria dell'Informazione Quantistica interessati ad apprendere Qiskit. I progetti sono pensati come supplemento alle lezioni e sono idealmente insegnati sotto forma di *sessioni pratiche guidate “hands-on”* in cui gli studenti devono implementare circuiti quantistici e analizzarne i risultati.
 
 
-The projects is aimed at master students with a background in Quantum Mechanics and Quantum Information theory who are interested to learn Qiskit. The projects are meant to be used as supplements to lectures and are ideally taught in the form of *guided practical "hands-on" sessions* in which the students must implement quantum circuits and analyze their results.
+# Indice
 
-
-# Table of contents
-
-1. [Getting started](getting_started.html)
+1. [Per iniziare](getting_started.html)
 
 ## Projects
 
-1. [Depolarizing channel](project_1-depolarizing_channel.html) ([Solution](project_1-solution.html))
-2. [Pauli channel](project_2-pauli_channel.html) ([Solution](project_2-solution.html))
-3. [Markovian reservoir engineering](project_3-reservoir-engineering.html) ([Solution](project_3-solution.html))
-4. [Amplitude damping channel](project_4-amplitude_damping.html) ([Solution](project_4-solution.html))
-5. [Amplitude damping channel](final_project.html) ([Solution](final_project-solutions.html))
+1. [Canale di depolarizzazione](project_1-depolarizing_channel.html) ([Soluzione](project_1-solution.html))
+2. [Canale di Pauli](project_2-pauli_channel.html) ([Soluzione](project_2-solution.html))
+3. [Progettazione di un serbatoio Markoviano](project_3-reservoir-engineering.html) ([Soluzione](project_3-solution.html))
+4. [Canale di smorzamento di ampiezza](project_4-amplitude_damping.html) ([Soluzione](project_4-solution.html))
+5. [Progetto finale](final_project.html) ([Soluzione](final_project-solutions.html))
 
 <img src="images/oqs_logos_.jpg"/>
