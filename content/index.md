@@ -9,7 +9,7 @@ I progetti sono rivolti a studenti magistrali con una formazione in Meccanica Qu
 
 1. [Per iniziare](getting_started.html)
 
-## Projects
+## Progetti
 
 1. [Canale di depolarizzazione](project_1-depolarizing_channel.html) ([Soluzione](project_1-solution.html))
 2. [Canale di Pauli](project_2-pauli_channel.html) ([Soluzione](project_2-solution.html))
