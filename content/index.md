@@ -1,3 +1,7 @@
+<div>
+🇬🇧 <a href="https://qplaylearn.github.io/oqs-jupyterbook/">English</a> | 🇫🇮 <a href="https://qplaylearn.github.io/oqs-jupyterbook_FIN/">Suomi</a>
+</div>
+
 <img src="images/oqs_title_.jpg"/>
 
 Questa serie di progetti si basa sul corso **Open Quantum Systems (OQS) con Qiskit**, che tratta i concetti più basilari ed essenziali presenti nella letteratura sugli OQS. Il corso originale ha offerto un approccio innovativo agli OQS: dando agli studenti l'opportunità di imparare a simulare molti esempi paradigmatici delle dinamiche degli OQS con [Qiskit](https://qiskit.org) e la [IBM Quantum Platform](https://quantum-computing.ibm.com). Questa idea trova la sua origine nella pubblicazione ([García-Pérez, Rossi, Maniscalco, NPJ Quantum Inform. 6, 1 (2020)](https://www.nature.com/articles/s41534-019-0235-y)), in cui gli autori dimostrano che la IBM Quantum Platform è una piattaforma versatile e robusta per la simulazione di sistemi quantistici aperti.
